@@ -39,7 +39,7 @@ export default function RootLayout({ children }: React.PropsWithChildren) {
 
         <footer className="text-center py-2">
           © 2012-{new Date().getFullYear()}{' '}
-          <Link href="https://curono.dev">curono</Link>
+          <Link href="https://hayu.io">hayu.io</Link>
         </footer>
       </body>
     </html>
